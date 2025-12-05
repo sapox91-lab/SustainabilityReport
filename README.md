@@ -8,6 +8,7 @@ Design
 Mobile-First: Progettato prioritariamente per dispositivi mobili, con layout responsive per tablet e desktop
 Palette Colori: Background crema (#FFF8E7) con toni terrosi ispirati al brand Tasca d'Almerita (marrone, beige, verde oliva)
 Tipografia: Font serif eleganti (Georgia, Times New Roman) che richiamano tradizione e qualità
+
 #Funzionalità
 Multilinguaggio IT-EN: Selettore lingua funzionante in alto a sinistra con cambio istantaneo dei contenuti
 Header Sticky: Logo aziendale nero e titolo della pagina sempre visibili durante lo scroll
@@ -18,6 +19,7 @@ Sezione B Corp: Informazioni sulla certificazione B Corp con logo ufficiale
 Sezione SOStain: Dettagli sul disciplinare SOStain con lista dei 10 requisiti e logo
 Footer Social: Link a Facebook, LinkedIn e Instagram con icone SVG
 Credits: Informazioni sul developer e progetto universitario
+
 #Elementi Tecnici
 HTML5 Semantico: Struttura chiara e accessibile
 CSS3 Moderno: Variabili CSS, Flexbox, Grid, animazioni fluide
