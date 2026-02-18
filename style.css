@@ -509,14 +509,18 @@ gap: var(--spacing-sm);
 /* Container per i loghi di certificazione */
 .cert-logo-container {
     display: flex;
+    flex-direction: row;
+    align-items: center;
     justify-content: center;
+    gap: 60px;
     margin-bottom: var(--spacing-md);
 }
 
 /* Logo di certificazione (B Corp, SOStain) */
 .cert-logo {
-    max-width: 120px;
+    max-width: 60px;
     height: auto;
+    object-fit: contain;
 }
 
 /* Titolo della sezione informativa */
