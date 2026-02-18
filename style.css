@@ -728,11 +728,18 @@ gap: var(--spacing-sm);
     
     /* Header desktop */
     .header {
-        padding: var(--spacing-xl) var(--spacing-lg);
+        height: 130px;
+        display: flex;
+        align-items: center;
     }
+
+   .header-content {
+        justify-content: center;
+        gap: 20px;
+   }
     
     .logo-container {
-        max-width: 200px;
+        max-width: 150px;
     }
     
     .header-title {
