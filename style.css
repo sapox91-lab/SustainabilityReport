@@ -133,7 +133,7 @@ gap: 2px;
 .logo {
     width: 100%;
     height: auto;
-    filter: brightness(0);  /* Converte il logo in nero */
+    filter: brightness(0);  
 }
 
 /* Titolo principale dell'header */
@@ -520,7 +520,7 @@ gap: 2px;
     margin-bottom: var(--spacing-md);
 }
 
-/* Logo di certificazione (B Corp, SOStain) */
+/* Logo di certificazione */
 .cert-logo {
     max-width: 60px;
     height: auto;
